@@ -44,3 +44,12 @@ p {
   list-style: none;
   float: right;
 }
+
+#navbar li {
+  float: left;
+}
+
+#navbar li a {
+  display: block;
+  padding: 20px;
+}
