@@ -34,3 +34,13 @@ p {
 #navbar a {
   color: #fff;
 }
+
+#navbar h1 {
+  float: left;
+  padding-top: 20px;
+}
+
+#navbar ul {
+  list-style: none;
+  float: right;
+}
