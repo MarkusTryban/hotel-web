@@ -32,6 +32,10 @@ p {
   padding: 0 20px;
 }
 
+.text-primary {
+  color: #f7c08a;
+}
+
 #navbar {
   background: #333;
   color: #fff;
