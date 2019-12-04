@@ -52,4 +52,10 @@ p {
 #navbar li a {
   display: block;
   padding: 20px;
+  text-align: center;
+}
+
+#navbar li a:hover {
+  background: #444;
+  color: #f7c08a;
 }
