@@ -79,6 +79,10 @@ p {
   clear: both;
 }
 
+.l-heading {
+  font-size: 40px;
+}
+
 .py-1 {
   padding: 10px 0;
 }
