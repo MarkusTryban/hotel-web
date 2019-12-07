@@ -183,6 +183,12 @@ p {
   width: 70%;
 }
 
+#about-info .info-left {
+  float: left;
+  width: 50%;
+  min-height: 100%;
+}
+
 #main-footer {
   text-align: center;
   background: #444;
