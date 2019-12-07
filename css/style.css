@@ -171,6 +171,18 @@ p {
   margin-bottom: 10px;
 }
 
+#about-info .info-right {
+  float: right;
+  width: 50%;
+  min-height: 100%;
+}
+
+#about-info .info-right img {
+  display: block;
+  margin: auto;
+  width: 70%;
+}
+
 #main-footer {
   text-align: center;
   background: #444;
