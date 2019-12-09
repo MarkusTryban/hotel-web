@@ -2,3 +2,13 @@
   float: none;
   text-align: center;
 }
+
+#navbar ul,
+#navbar li {
+  float: none;
+}
+
+#navbar li a {
+  padding: 5px;
+  border-bottom: #444 dotted 1px;
+}
