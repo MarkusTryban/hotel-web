@@ -12,3 +12,11 @@
   padding: 5px;
   border-bottom: #444 solid 1px;
 }
+
+#home-info {
+  height: 550px;
+}
+
+#home-info .info-img {
+  display: none;
+}
