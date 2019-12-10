@@ -44,3 +44,7 @@
 .l-heading {
   text-align: center;
 }
+
+#contact-info .box {
+  border-bottom: #444 solid 1px;
+}
