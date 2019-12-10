@@ -20,3 +20,8 @@
 #home-info .info-img {
   display: none;
 }
+
+#home-info .info-content {
+  float: none;
+  width: 100%;
+}
