@@ -30,3 +30,9 @@
   float: none;
   width: 100%;
 }
+
+#about-info .info-right,
+#about-info .info-left {
+  float: none;
+  width: 100%;
+}
